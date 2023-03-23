@@ -1,5 +1,5 @@
 {
-  "name": "easyswoole/spl",
+  "name": "fei11/spl",
   "type": "library",
   "description": "php stander lib",
   "keywords" : ["swoole", "framework", "async","easyswoole"],
